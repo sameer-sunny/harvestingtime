@@ -1,2 +1,2 @@
 # harvestingtime
-this is for project development
+Haervestingtime Ministry is an christian church based organisation
